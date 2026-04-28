@@ -36,10 +36,4 @@ The network is divided into five specialized zones:
 3. To verify connectivity, open any PC web browser and navigate to `www.federalfgt.control`.
 4. To test failover, manually shut down the primary link between the AI Unit and Sim Lab; traffic will automatically reroute through the Simulation Sandbox.
 
-## 👥 Work Distribution
-* **Member 1:** Lead Architect (HQ Core, Web/DNS/Email Services, Next-Hop Routing).
-* **Member 2:** Routing Specialist (VLSM, RIPv2, Floating Static Routes, Hangar Isolation).
-* **Member 3:** Systems & Security (DHCP Relay, Emergency Node, Loop Prevention, Documentation).
 
----
-*Developed as part of the CSE 421: Introduction to Network Simulation Lab.*

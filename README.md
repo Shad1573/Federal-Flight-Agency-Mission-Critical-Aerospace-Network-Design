@@ -31,7 +31,7 @@ The network is divided into five specialized zones:
 5. **Emergency Control Node:** A high-security, statically-routed backup core.
 
 ## 🚦 How to Run
-1. Download and install **Cisco Packet Tracer**.
+1. Download and install **Cisco Packet Tracer 8.2.1**.
 2. Open the `.pka` file provided in this repository.
 3. To verify connectivity, open any PC web browser and navigate to `www.federalfgt.control`.
 4. To test failover, manually shut down the primary link between the AI Unit and Sim Lab; traffic will automatically reroute through the Simulation Sandbox.
